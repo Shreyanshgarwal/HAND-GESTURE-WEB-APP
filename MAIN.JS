@@ -64,6 +64,7 @@ document.getElementById("result_object_gesture_icon").innerHTML = "&#9996;"; }
 }
 speak();
 
+
 function speak(){
 var synth = window.speechSynthesis;
 
